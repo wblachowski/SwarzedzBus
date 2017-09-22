@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="context_menu">
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="context_menu_favourite">
+        <item>Usuń z ulubionych</item>
+    </string-array>
+</resources>

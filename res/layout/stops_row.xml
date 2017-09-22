@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+
+    <TextView
+        android:id="@+id/stop_name"
+        android:layout_width="315dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:text="Kościuszkowców"
+        android:textColor="@color/colorMain"
+        android:layout_weight="0.86" />
+
+    <ImageView
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:background="@null"
+        android:focusable="false"
+        android:tint="#D6D6D6"
+        app:srcCompat="@drawable/ic_star_border_black_24dp" />
+
+
+</LinearLayout>

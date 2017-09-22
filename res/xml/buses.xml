@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<buses>
+    <bus nr="401">
+        <line to="Rondo Śródka">
+            <stop link="401_SD01_1.pdf" name="os. Kościuszkowców" is-favourite="1"></stop>
+            <stop link="401_S073_2.pdf" name="os. Czwartaków" is-favourite="0"></stop>
+            <stop link="401_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="401_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="401_S082_1.pdf" name="Piaski" is-favourite="0"></stop>
+            <stop link="401_S083_1.pdf" name="Skansen" is-favourite="0"></stop>
+            <stop link="401_1005_2.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="401_158_2.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="401_407_2.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="401_675_2.pdf" name="Pusta n/ż" is-favourite="0"></stop>
+            <stop link="401_361_2.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="401_448_2.pdf" name="Termy n/ż" is-favourite="0"></stop>
+            <stop link="401_5_10.pdf" name="Rondo Śródka" is-favourite="0"></stop>
+        </line>
+        <line to="Os. Kościuszkowców">
+            <stop link="401_5_10.pdf" name="Rondo Śródka" is-favourite="0"></stop>
+            <stop link="401_447_1.pdf" name="Termy n/ż" is-favourite="0"></stop>
+            <stop link="401_360_1.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="401_674_1.pdf" name="Pusta n/ż" is-favourite="0"></stop>
+            <stop link="401_406_1.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="401_52_1.pdf" name="Bożeny n/ż" is-favourite="0"></stop>
+            <stop link="401_157_1.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="401_1004_1.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="401_S083_2.pdf" name="Skansen" is-favourite="0"></stop>
+            <stop link="401_S082_2.pdf" name="Piaski" is-favourite="0"></stop>
+            <stop link="401_S080_2.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="401_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="401_S073_1.pdf" name="os. Czwartaków" is-favourite="0"></stop>
+            <stop link="401_SD01_1.pdf" name="os. Kościuszkowców" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="405">
+        <line to="Rondo Śródka">
+            <stop link="405_S086_1.pdf" name="Rynek" is-favourite="0"></stop>
+            <stop link="405_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="405_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="405_S069_1.pdf" name="Tysiąclecia/Spokojna" is-favourite="0"></stop>
+            <stop link="405_S085_2.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="405_S072_1.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="405_1005_2.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="405_158_2.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="405_407_2.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="405_675_2.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="405_361_2.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="405_448_2.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="405_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="405_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+            <stop link="405_447_1.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="405_360_1.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="405_674_1.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="405_406_1.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="405_52_1.pdf" name="Bożeny /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="405_157_1.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="405_1004_1.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="405_S072_2.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="405_S085_1.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="405_S069_2.pdf" name="Tysiąclecia/Krasickiego" is-favourite="0"></stop>
+            <stop link="405_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="405_S080_2.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="405_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="406">
+        <line to="Rondo Śródka">
+            <stop link="406_S017_1.pdf" name="CH JASIN (ETC)" is-favourite="0"></stop>
+            <stop link="406_S087_1.pdf" name="Wiadukt Kościuszki" is-favourite="0"></stop>
+            <stop link="406_S068_2.pdf" name="Kościuszki" is-favourite="0"></stop>
+            <stop link="406_S062_2.pdf" name="Dworzec PKP" is-favourite="0"></stop>
+            <stop link="406_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="406_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="406_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="406_S069_1.pdf" name="Tysiąclecia / Spokojna" is-favourite="0"></stop>
+            <stop link="406_S085_2.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="406_S072_1.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="406_1005_2.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="406_158_2.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="406_407_2.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="406_675_2.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="406_361_2.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="406_448_2.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="406_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="C.H. ETC (JASIN)">
+            <stop link="406_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+            <stop link="406_447_1.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="406_360_1.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="406_674_1.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="406_406_1.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="406_52_1.pdf" name="Bożeny /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="406_157_1.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="406_1004_1.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="406_S072_2.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="406_S085_1.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="406_S069_2.pdf" name="Tysiąclecia/Krasickiego" is-favourite="0"></stop>
+            <stop link="406_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="406_S017_1.pdf" name="CH Jasin (ETC)" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="407">
+        <line to="Rondo Śródka">
+            <stop link="407_S023_1.pdf" name="Rabowicka Pętla (VW)" is-favourite="0"></stop>
+            <stop link="407_S021_2.pdf" name="Rabowicka II (VW)" is-favourite="0"></stop>
+            <stop link="407_S022_1.pdf" name="Rabowicka III" is-favourite="0"></stop>
+            <stop link="407_S020_2.pdf" name="Rabowicka I" is-favourite="0"></stop>
+            <stop link="407_S019_2.pdf" name="Rabowicka" is-favourite="0"></stop>
+            <stop link="407_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="407_S069_1.pdf" name="Tysiąclecia/Spokojna" is-favourite="0"></stop>
+            <stop link="407_S085_2.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="407_S072_1.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="407_1005_2.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="407_158_2.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="407_407_2.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="407_675_2.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="407_361_2.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="407_448_2.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="407_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="Rabowicka VW">
+            <stop link="407_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+            <stop link="407_447_1.pdf" name="Termy /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="407_360_1.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="407_674_1.pdf" name="Pusta /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="407_406_1.pdf" name="Miłostowo" is-favourite="0"></stop>
+            <stop link="407_52_1.pdf" name="Bożeny /NA ŻĄDANIE/" is-favourite="0"></stop>
+            <stop link="407_157_1.pdf" name="Antoninek Stacja" is-favourite="0"></stop>
+            <stop link="407_1004_1.pdf" name="Sośnicka" is-favourite="0"></stop>
+            <stop link="407_S072_2.pdf" name="Os. Cegielskiego" is-favourite="0"></stop>
+            <stop link="407_S085_1.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="407_S069_2.pdf" name="Tysiąclecia/Krasickiego" is-favourite="0"></stop>
+            <stop link="407_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="407_S019_1.pdf" name="Rabowicka" is-favourite="0"></stop>
+            <stop link="407_S020_1.pdf" name="Rabowicka I" is-favourite="0"></stop>
+            <stop link="407_S021_1.pdf" name="Rabowicka II (VW)" is-favourite="0"></stop>
+            <stop link="407_S023_1.pdf" name="Rabowicka Pętla (VW)" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="412">
+        <line to="Rondo Śródka">
+            <stop link="412_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="412_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="412_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="412_S074_1.pdf" name="Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="412_S012_1.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="412_S013_1.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="412_S030_1.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="412_S096_1.pdf" name="Wierzenica/Mechowo" is-favourite="0"></stop>
+            <stop link="412_S016_1.pdf" name="Janikowo / Szybowcowa" is-favourite="0"></stop>
+            <stop link="412_S014_1.pdf" name="Janikowo / Ogrodnicza" is-favourite="0"></stop>
+            <stop link="412_S002_1.pdf" name="Bogucin, Ligowiec" is-favourite="0"></stop>
+            <stop link="412_S001_1.pdf" name="Bogucin pętla" is-favourite="0"></stop>
+            <stop link="412_44_2.pdf" name="Bogucin/ Bałtycka" is-favourite="0"></stop>
+            <stop link="412_189_2.pdf" name="Gnieźnieńska Cmentarz" is-favourite="0"></stop>
+            <stop link="412_181_2.pdf" name="Główna" is-favourite="0"></stop>
+            <stop link="412_738_2.pdf" name="Rynek Wschodni" is-favourite="0"></stop>
+            <stop link="412_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="412_5_10.pdf" name="Rondo Śródka - Dworzec" is-favourite="0"></stop>
+            <stop link="412_737_1.pdf" name="Rynek Wschodni" is-favourite="0"></stop>
+            <stop link="412_182_3.pdf" name="Główna" is-favourite="0"></stop>
+            <stop link="412_188_1.pdf" name="Gnieźnieńska Cmentarz" is-favourite="0"></stop>
+            <stop link="412_S003_1.pdf" name="Bogucin/ Bałtycka" is-favourite="0"></stop>
+            <stop link="412_S001_1.pdf" name="Bogucin pętla" is-favourite="0"></stop>
+            <stop link="412_S002_2.pdf" name="Bogucin, Ligowiec" is-favourite="0"></stop>
+            <stop link="412_S014_1.pdf" name="Janikowo / Ogrodnicza" is-favourite="0"></stop>
+            <stop link="412_S016_2.pdf" name="Janikowo / Szybowcowa" is-favourite="0"></stop>
+            <stop link="412_S096_2.pdf" name="Wierzenica/Mechowo" is-favourite="0"></stop>
+            <stop link="412_S030_2.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="412_S013_2.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="412_S012_2.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="412_SD01_1.pdf" name="Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="412_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="412_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="412_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="400">
+        <line to="Rondo Sródka">
+            <stop link="400_S085_1.pdf" name="Rondo Raczyńskiego" is-favourite="0"></stop>
+            <stop link="400_S069_2.pdf" name="Tysiąclecia/Krasickiego" is-favourite="0"></stop>
+            <stop link="400_S081_2.pdf" name="Południowa/Sredzka" is-favourite="0"></stop>
+            <stop link="400_S080_2.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="400_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="400_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="400_S074_1.pdf" name="Os. Kosciuszkowców" is-favourite="0"></stop>
+            <stop link="400_S012_1.pdf" name="Gruszczyn/Katarzyńska" is-favourite="0"></stop>
+            <stop link="400_S013_1.pdf" name="Gruszczyn/Okrężna" is-favourite="0"></stop>
+            <stop link="400_S030_1.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="400_S096_1.pdf" name="Wierzenica/Mechowo" is-favourite="0"></stop>
+            <stop link="400_S016_1.pdf" name="Janikowo/Szybowcowa" is-favourite="0"></stop>
+            <stop link="400_S002_1.pdf" name="Bogucin, Ligowiec" is-favourite="0"></stop>
+            <stop link="400_S001_1.pdf" name="Bogucin pętla" is-favourite="0"></stop>
+            <stop link="400_675_2.pdf" name="Pusta" is-favourite="0"></stop>
+            <stop link="400_361_2.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="400_5_10.pdf" name="Rondo Sródka - Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="OS. RACZYŃSKIEGO">
+            <stop link="400_5_10.pdf" name="Rondo Sródka - Dworzec" is-favourite="0"></stop>
+            <stop link="400_360_1.pdf" name="Łomżyńska" is-favourite="0"></stop>
+            <stop link="400_674_1.pdf" name="Pusta" is-favourite="0"></stop>
+            <stop link="400_S003_1.pdf" name="Bogucin/Bałtycka" is-favourite="0"></stop>
+            <stop link="400_S001_1.pdf" name="Bogucin Pętla" is-favourite="0"></stop>
+            <stop link="400_S002_2.pdf" name="Bogucin,Ligowiec" is-favourite="0"></stop>
+            <stop link="400_S016_2.pdf" name="Janikowo/Szybowcowa" is-favourite="0"></stop>
+            <stop link="400_S096_2.pdf" name="Wierzenica/Mechowo" is-favourite="0"></stop>
+            <stop link="400_S030_2.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="400_S013_2.pdf" name="Gruszczyn/Okrężna" is-favourite="0"></stop>
+            <stop link="400_S012_2.pdf" name="Gruszczyn/Katarzyńska" is-favourite="0"></stop>
+            <stop link="400_SD01_1.pdf" name="Dworzec Kosciuszkowców" is-favourite="0"></stop>
+            <stop link="400_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="400_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="400_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="400_S081_1.pdf" name="Południowa/Sredzka" is-favourite="0"></stop>
+            <stop link="400_S069_1.pdf" name="Tysiąclecia/Spokojna" is-favourite="0"></stop>
+            <stop link="400_S085_1.pdf" name="Rondo Raczyńskiego" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="492">
+        <line to="Uzarzewo">
+            <stop link="S2_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S2_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S2_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S2_S074_1.pdf" name="Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S2_S012_1.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="S2_S013_1.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="S2_S030_1.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="S2_S029_1.pdf" name="Kobylnica szkoła" is-favourite="0"></stop>
+            <stop link="S2_S028_1.pdf" name="Kobylnica n/ż" is-favourite="0"></stop>
+            <stop link="S2_S093_1.pdf" name="Uzarzewo skrzyżowanie" is-favourite="0"></stop>
+            <stop link="S2_S092_1.pdf" name="Uzarzewo pętla" is-favourite="0"></stop>
+            <stop link="S2_S091_1.pdf" name="Uzarzewo centrum" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="S2_S091_1.pdf" name="Uzarzewo centrum" is-favourite="0"></stop>
+            <stop link="S3_S092_1.pdf" name="Uzarzewo pętla" is-favourite="0"></stop>
+            <stop link="S3_S093_2.pdf" name="Uzarzewo skrzyżowanie" is-favourite="0"></stop>
+            <stop link="S3_S028_2.pdf" name="Kobylnica n/ż" is-favourite="0"></stop>
+            <stop link="S3_S029_2.pdf" name="Kobylnica szkoła" is-favourite="0"></stop>
+            <stop link="S3_S030_2.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="S3_S013_2.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="S3_S012_2.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="S3_SD01_1.pdf" name="Dworzec Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S3_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S2_S061_1.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S2_S018_1.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S2_S011_1.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S2_S010_1.pdf" name="Gortatowo Świetlica" is-favourite="0"></stop>
+            <stop link="S2_S011_2.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S2_S018_2.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S2_S061_2.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S3_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S3_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="493">
+        <line to="Karłowice">
+            <stop link="S3_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S3_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S3_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S3_S074_1.pdf" name="Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S3_S012_1.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="S3_S013_1.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="S3_S030_1.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="S3_S115_1.pdf" name="Wierzenica Dwór" is-favourite="0"></stop>
+            <stop link="S3_S094_1.pdf" name="Wierzenica" is-favourite="0"></stop>
+            <stop link="S3_S095_1.pdf" name="Wierzenica cmentarz n/ż" is-favourite="0"></stop>
+            <stop link="S3_S097_1.pdf" name="Wierzonka" is-favourite="0"></stop>
+            <stop link="S3_S098_1.pdf" name="Wierzonka n/ż Szkoła" is-favourite="0"></stop>
+            <stop link="S3_deb_1.pdf" name="Dębogóra" is-favourite="0"></stop>
+            <stop link="S3_S026_1.pdf" name="Karłowice" is-favourite="0"></stop>
+            <stop link="S3_S027_1.pdf" name="Karłowice pętla" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="S3_S027_1.pdf" name="Karłowice pętla" is-favourite="0"></stop>
+            <stop link="S3_S026_2.pdf" name="Karłowice" is-favourite="0"></stop>
+            <stop link="S3_deb_2.pdf" name="Dębogóra" is-favourite="0"></stop>
+            <stop link="S3_S098_2.pdf" name="Wierzonka n/ż Szkoła" is-favourite="0"></stop>
+            <stop link="S3_S097_2.pdf" name="Wierzonka" is-favourite="0"></stop>
+            <stop link="S3_S095_2.pdf" name="Wierzenica cmentarz n/ż" is-favourite="0"></stop>
+            <stop link="S3_S094_2.pdf" name="Wierzenica" is-favourite="0"></stop>
+            <stop link="S3_S115_2.pdf" name="Wierzenica Dwór" is-favourite="0"></stop>
+            <stop link="S3_S030_2.pdf" name="Kobylnica węzeł" is-favourite="0"></stop>
+            <stop link="S3_S013_2.pdf" name="Gruszczyn / Okrężna" is-favourite="0"></stop>
+            <stop link="S3_S012_2.pdf" name="Gruszczyn / Katarzyńska" is-favourite="0"></stop>
+            <stop link="S3_SD01_1.pdf" name="Dworzec Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S3_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S3_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S3_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="498">
+        <line to="Kruszewnia">
+            <stop link="S8_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S8_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="S8_S019_1.pdf" name="Rabowicka" is-favourite="0"></stop>
+            <stop link="S8_S020_1.pdf" name="Rabowicka I" is-favourite="0"></stop>
+            <stop link="S8_S021_1.pdf" name="Rabowicka II" is-favourite="0"></stop>
+            <stop link="S8_S023_2.pdf" name="Rabowicka/Pętla" is-favourite="0"></stop>
+            <stop link="S8_S043_1.pdf" name="Bukowa" is-favourite="0"></stop>
+            <stop link="S8_S047_1.pdf" name="Rabowice/Świetlica" is-favourite="0"></stop>
+            <stop link="S8_S045_1.pdf" name="Dębowa" is-favourite="0"></stop>
+            <stop link="S8_S114_1.pdf" name="Świerkowe Tarasy" is-favourite="0"></stop>
+            <stop link="S8_S048_1.pdf" name="Średzka" is-favourite="0"></stop>
+            <stop link="S8_S046_1.pdf" name="Izabelin" is-favourite="0"></stop>
+            <stop link="S8_S049_1.pdf" name="Sad" is-favourite="0"></stop>
+            <stop link="S8_S051_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S050_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S112_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S031_1.pdf" name="" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="S8_S031_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S051_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S050_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S044_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S049_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S046_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S101_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S102_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S078_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S019_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S020_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S021_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S023_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S021_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S022_1.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S020_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S019_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S080_2.pdf" name="" is-favourite="0"></stop>
+            <stop link="S8_S086_1.pdf" name="" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="499">
+        <line to="os. Kościuszkowców">
+            <stop link="S9_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+            <stop link="S9_S106_2.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S9_S104_2.pdf" name="Heweliusza Szkoła" is-favourite="0"></stop>
+            <stop link="S9_S103_2.pdf" name="os. Zamoyskiego" is-favourite="0"></stop>
+            <stop link="S9_S105_2.pdf" name="Planetarna Gimnazjum" is-favourite="0"></stop>
+            <stop link="S9_S058_2.pdf" name="Armii Poznań Szk." is-favourite="0"></stop>
+            <stop link="S9_S057_2.pdf" name="Armii Poznań" is-favourite="0"></stop>
+            <stop link="S9_S060_1.pdf" name="Geremka" is-favourite="0"></stop>
+            <stop link="S9_S085_3.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S9_S070_2.pdf" name="Krawiecka" is-favourite="0"></stop>
+            <stop link="S9_S071_2.pdf" name="Okrężna" is-favourite="0"></stop>
+            <stop link="S9_S076_2.pdf" name="Pogodna" is-favourite="0"></stop>
+            <stop link="S9_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S9_S080_2.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="S9_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S9_S061_1.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S9_S018_1.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S9_S011_1.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S9_S010_1.pdf" name="Gortatowo Świetlica" is-favourite="0"></stop>
+            <stop link="S9_S011_2.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S9_S018_2.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S9_S061_2.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S9_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S9_SD01_1.pdf" name="Os. Kościuszkowców Dworzec" is-favourite="0"></stop>
+        </line>
+        <line to="Os. Leśne, Zalasewo">
+            <stop link="S9_SD01_1.pdf" name="os. Kościuszkowców Dworzec" is-favourite="0"></stop>
+            <stop link="S9_S073_2.pdf" name="os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S9_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S9_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="S9_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S9_S076_1.pdf" name="Pogodna" is-favourite="0"></stop>
+            <stop link="S9_S071_1.pdf" name="Okrężna" is-favourite="0"></stop>
+            <stop link="S9_S090_1.pdf" name="Zielona" is-favourite="0"></stop>
+            <stop link="S9_S070_1.pdf" name="Krawiecka" is-favourite="0"></stop>
+            <stop link="S9_S085_4.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S9_S059_1.pdf" name="Orla" is-favourite="0"></stop>
+            <stop link="S9_S057_1.pdf" name="Armii Poznań" is-favourite="0"></stop>
+            <stop link="S9_S058_1.pdf" name="Armii Poznań Szkoła" is-favourite="0"></stop>
+            <stop link="S9_S105_1.pdf" name="Planetarna Gimnazjum" is-favourite="0"></stop>
+            <stop link="S9_S103_1.pdf" name="os. Zamoyskiego" is-favourite="0"></stop>
+            <stop link="S9_S104_1.pdf" name="Heweliusza Szkoła" is-favourite="0"></stop>
+            <stop link="S9_S106_1.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S9_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="497">
+        <line to="Kruszewnia">
+            <stop link="S11_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+            <stop link="S11_S106_2.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S11_S104_2.pdf" name="Heweliusza Szkoła" is-favourite="0"></stop>
+            <stop link="S11_S103_2.pdf" name="Os. Zamoyskiego" is-favourite="0"></stop>
+            <stop link="S11_S105_2.pdf" name="Planetarna Gimnazjum" is-favourite="0"></stop>
+            <stop link="S11_S070_1.pdf" name="Kupiecka (Rolna)" is-favourite="0"></stop>
+            <stop link="S11_S085_1.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S11_S069_2.pdf" name="Krasickiego (Tysiąclecia)" is-favourite="0"></stop>
+            <stop link="S11_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S11_S019_1.pdf" name="Rabowicka" is-favourite="0"></stop>
+            <stop link="S11_S020_1.pdf" name="Rabowicka I" is-favourite="0"></stop>
+            <stop link="S11_S021_1.pdf" name="Rabowicka II" is-favourite="0"></stop>
+            <stop link="S11_S023_2.pdf" name="Rabowicka / Pętla" is-favourite="0"></stop>
+            <stop link="S11_S043_1.pdf" name="Bukowa" is-favourite="0"></stop>
+            <stop link="S11_S047_1.pdf" name="Rabowice /Świetlica" is-favourite="0"></stop>
+            <stop link="S11_S045_1.pdf" name="Dębowa" is-favourite="0"></stop>
+            <stop link="S11_S114_1.pdf" name="Świerkowe Tarasy" is-favourite="0"></stop>
+            <stop link="S11_S048_1.pdf" name="Średzka" is-favourite="0"></stop>
+            <stop link="S11_S046_1.pdf" name="Izabelin" is-favourite="0"></stop>
+            <stop link="S11_S049_1.pdf" name="Sad" is-favourite="0"></stop>
+            <stop link="S11_S112_1.pdf" name="Złotopolska" is-favourite="0"></stop>
+            <stop link="S11_S031_1.pdf" name="Kruszewnia" is-favourite="0"></stop>
+        </line>
+        <line to="Os. Leśne, Zalasewo">
+            <stop link="S11_S031_1.pdf" name="Kruszewnia" is-favourite="0"></stop>
+            <stop link="S11_S044_1.pdf" name="Czarnoleska" is-favourite="0"></stop>
+            <stop link="S11_S049_2.pdf" name="Sad" is-favourite="0"></stop>
+            <stop link="S11_S046_2.pdf" name="Izabelin" is-favourite="0"></stop>
+            <stop link="S11_S101_2.pdf" name="Olszynowa" is-favourite="0"></stop>
+            <stop link="S11_S102_2.pdf" name="Os. Europejskie" is-favourite="0"></stop>
+            <stop link="S11_S078_2.pdf" name="Pogodna/Średzka" is-favourite="0"></stop>
+            <stop link="S11_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S11_S069_1.pdf" name="Spokojna (Tysiąclecia)" is-favourite="0"></stop>
+            <stop link="S11_S085_3.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S11_S070_4.pdf" name="Kupiecka (Rolna)" is-favourite="0"></stop>
+            <stop link="S11_S105_1.pdf" name="Planetarna Gimnazjum" is-favourite="0"></stop>
+            <stop link="S11_S103_1.pdf" name="Os. Zamoyskiego" is-favourite="0"></stop>
+            <stop link="S11_S104_1.pdf" name="Heweliusza Szkoła" is-favourite="0"></stop>
+            <stop link="S11_S106_1.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S11_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="491">
+        <line to="os. Kościuszkowców">
+            <stop link="S13_S086_1.pdf" name="Rynek" is-favourite="0"></stop>
+            <stop link="S13_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S13_S061_1.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S13_S018_1.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S13_S011_1.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S13_S010_1.pdf" name="Gortatowo Świetlica" is-favourite="0"></stop>
+            <stop link="S13_S011_2.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S13_S018_2.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S13_S061_2.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S13_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S13_SD01_1.pdf" name="Dworzec Os. Kościuszkowców" is-favourite="0"></stop>
+        </line>
+        <line to="Rynek">
+            <stop link="S13_SD01_1.pdf" name="Dworzec Os. Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S13_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S13_S061_1.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S13_S018_1.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S13_S011_1.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S13_S010_1.pdf" name="Gortatowo Świetlica" is-favourite="0"></stop>
+            <stop link="S13_S011_2.pdf" name="Swarzędzka/Dożynkowa" is-favourite="0"></stop>
+            <stop link="S13_S018_2.pdf" name="Gortatowo cmentarz" is-favourite="0"></stop>
+            <stop link="S13_S061_2.pdf" name="Cybińska" is-favourite="0"></stop>
+            <stop link="S13_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S13_S086_1.pdf" name="Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="490">
+        <line to="Zieliniec">
+            <stop link="S14_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S14_S082_1.pdf" name="Poznańska/Piaski" is-favourite="0"></stop>
+            <stop link="S14_S083_1.pdf" name="Skansen" is-favourite="0"></stop>
+            <stop link="S14_S063_2.pdf" name="Działkowa" is-favourite="0"></stop>
+            <stop link="S14_S064_2.pdf" name="Działkowa II" is-favourite="0"></stop>
+            <stop link="S14_S065_2.pdf" name="Stawna" is-favourite="0"></stop>
+            <stop link="S14_S066_2.pdf" name="Hala" is-favourite="0"></stop>
+            <stop link="S14_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="484">
+        <line to="Tulce">
+            <stop link="S4_SD01_1.pdf" name="Dworzec Kościuszkowców" is-favourite="0"></stop>
+            <stop link="S4_S073_2.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S4_S079_2.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S4_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S4_S080_1.pdf" name="Polna" is-favourite="0"></stop>
+            <stop link="S4_S062_1.pdf" name="Dworzec PKP" is-favourite="0"></stop>
+            <stop link="S4_S068_1.pdf" name="Kościuszki" is-favourite="0"></stop>
+            <stop link="S4_S081_1.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S4_S069_1.pdf" name="Tysiąclecia" is-favourite="0"></stop>
+            <stop link="S4_S085_3.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S4_S070_2.pdf" name="Krawiecka" is-favourite="0"></stop>
+            <stop link="S4_S077_1.pdf" name="Warzywna" is-favourite="0"></stop>
+            <stop link="S4_S099_1.pdf" name="Glebowa" is-favourite="0"></stop>
+            <stop link="S4_S107_1.pdf" name="Ukośna n/ż" is-favourite="0"></stop>
+            <stop link="S4_S100_1.pdf" name="Spacerowa" is-favourite="0"></stop>
+            <stop link="S4_S106_3t.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S4_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+            <stop link="S4_S106_4t.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S4_S004_1.pdf" name="Akacjowa" is-favourite="0"></stop>
+            <stop link="S4_S006_1.pdf" name="Garby Wielkie pętla" is-favourite="0"></stop>
+            <stop link="S4_S004_2.pdf" name="Akacjowa" is-favourite="0"></stop>
+            <stop link="S4_S008_1.pdf" name="Tulecka I" is-favourite="0"></stop>
+            <stop link="S4_S005_1.pdf" name="Garby Małe pętla" is-favourite="0"></stop>
+            <stop link="S4_S009_1.pdf" name="Tulecka II" is-favourite="0"></stop>
+            <stop link="S4_402.pdf" name="Tulce skrzyżowanie" is-favourite="0"></stop>
+            <stop link="S4_404.pdf" name="Tulce/Krótka" is-favourite="0"></stop>
+            <stop link="S4_401.pdf" name="Tulce/Pętla" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="S4_401.pdf" name="Tulce/Pętla" is-favourite="0"></stop>
+            <stop link="S4_405.pdf" name="Tulce/Krótka" is-favourite="0"></stop>
+            <stop link="S4_403.pdf" name="Tulce skrzyżowanie" is-favourite="0"></stop>
+            <stop link="S4_S005_1.pdf" name="Garby Małe pętla" is-favourite="0"></stop>
+            <stop link="S4_S009_2.pdf" name="Tulecka II" is-favourite="0"></stop>
+            <stop link="S4_S008_2.pdf" name="Tulecka I" is-favourite="0"></stop>
+            <stop link="S4_S006_1.pdf" name="Garby Wielkie pętla" is-favourite="0"></stop>
+            <stop link="S4_S004_2.pdf" name="Akacjowa" is-favourite="0"></stop>
+            <stop link="S4_S106_3r.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S4_S007_1.pdf" name="Os. Leśne" is-favourite="0"></stop>
+            <stop link="S4_S106_4r.pdf" name="Transportowa" is-favourite="0"></stop>
+            <stop link="S4_S100_2.pdf" name="Spacerowa" is-favourite="0"></stop>
+            <stop link="S4_S113_1.pdf" name="Serdeczna" is-favourite="0"></stop>
+            <stop link="S4_S099_2.pdf" name="Glebowa" is-favourite="0"></stop>
+            <stop link="S4_S090_1.pdf" name="Zielona" is-favourite="0"></stop>
+            <stop link="S4_S070_1.pdf" name="Rolna (Krawiecka)" is-favourite="0"></stop>
+            <stop link="S4_S085_1.pdf" name="Rondo Os. Raczyńskiego" is-favourite="0"></stop>
+            <stop link="S4_S069_2.pdf" name="Tysiąclecia" is-favourite="0"></stop>
+            <stop link="S4_S081_2.pdf" name="Południowa/Średzka" is-favourite="0"></stop>
+            <stop link="S4_S068_2.pdf" name="Kościuszki" is-favourite="0"></stop>
+            <stop link="S4_S062_2.pdf" name="Dworzec PKP" is-favourite="0"></stop>
+            <stop link="S4_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S4_S079_1.pdf" name="Cieszkowskiego" is-favourite="0"></stop>
+            <stop link="S4_S073_1.pdf" name="Os. Czwartaków" is-favourite="0"></stop>
+            <stop link="S4_SD01_1.pdf" name="Dworzec Kościuszkowców" is-favourite="0"></stop>
+        </line>
+    </bus>
+    <bus nr="486">
+        <line to="Siekierki Wielkie">
+            <stop link="S6_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+            <stop link="S6_S088_1.pdf" name="Wrzesińska" is-favourite="0"></stop>
+            <stop link="S6_S089_1.pdf" name="Wrzesińska sklep" is-favourite="0"></stop>
+            <stop link="S6_S024_1.pdf" name="Sołecka" is-favourite="0"></stop>
+            <stop link="S6_S025_1.pdf" name="Tulipanowa" is-favourite="0"></stop>
+            <stop link="S6_S033_1.pdf" name="Łowęcin / Szkolna" is-favourite="0"></stop>
+            <stop link="S6_S034_1.pdf" name="Łowęcin n/ż" is-favourite="0"></stop>
+            <stop link="S6_S032_1.pdf" name="Łowęcin" is-favourite="0"></stop>
+            <stop link="S6_S035_1.pdf" name="Łowęcin II n/ż" is-favourite="0"></stop>
+            <stop link="S6_S052_1.pdf" name="Sarbinowo" is-favourite="0"></stop>
+            <stop link="S6_S053_1.pdf" name="Sarbinowo I" is-favourite="0"></stop>
+            <stop link="S6_S054_1.pdf" name="Sarbinowo II" is-favourite="0"></stop>
+            <stop link="S6_S037_1.pdf" name="Paczkowo 1" is-favourite="0"></stop>
+            <stop link="S6_S041_3.pdf" name="Paczkowo/ Szkoła" is-favourite="0"></stop>
+            <stop link="S6_S041_1.pdf" name="Paczkowo/ Szkoła" is-favourite="0"></stop>
+            <stop link="S6_S038_1.pdf" name="Paczkowo/ Folwarczna" is-favourite="0"></stop>
+            <stop link="S6_S108_1.pdf" name="Altanowa n/ż" is-favourite="0"></stop>
+            <stop link="S6_S055_1.pdf" name="Sokolniki" is-favourite="0"></stop>
+            <stop link="S6_S056_1.pdf" name="Sokolniki Gw. - Pętla" is-favourite="0"></stop>
+            <stop link="S6_S055_2.pdf" name="Sokolniki" is-favourite="0"></stop>
+            <stop link="S6_S108_2.pdf" name="Altanowa n/ż" is-favourite="0"></stop>
+            <stop link="S6_S038_2.pdf" name="Paczkowo/ Folwarczna" is-favourite="0"></stop>
+            <stop link="S6_S041_2.pdf" name="Paczkowo/ Szkoła" is-favourite="0"></stop>
+            <stop link="S6_S042_1.pdf" name="Paczkowo/ Wiosenna" is-favourite="0"></stop>
+            <stop link="S6_S039_1.pdf" name="Paczkowo/ Ogrodowa" is-favourite="0"></stop>
+            <stop link="S6_S040_1.pdf" name="Paczkowo/ Polna" is-favourite="0"></stop>
+            <stop link="S6_201.pdf" name="Siekierki Wlk" is-favourite="0"></stop>
+            <stop link="S6_203.pdf" name="Siekierki Wielkie pętla" is-favourite="0"></stop>
+        </line>
+        <line to="Swarzędz Rynek">
+            <stop link="S6_203.pdf" name="Siekierki Wielkie pętla" is-favourite="0"></stop>
+            <stop link="S6_202.pdf" name="Siekierki Wlk" is-favourite="0"></stop>
+            <stop link="S6_S040_2.pdf" name="Paczkowo/ Polna" is-favourite="0"></stop>
+            <stop link="S6_S039_2.pdf" name="Paczkowo/ Ogrodowa" is-favourite="0"></stop>
+            <stop link="S6_S042_2.pdf" name="Paczkowo/ Wiosenna" is-favourite="0"></stop>
+            <stop link="S6_S041_4.pdf" name="Paczkowo/ Szkoła" is-favourite="0"></stop>
+            <stop link="S6_S037_2.pdf" name="Paczkowo 1" is-favourite="0"></stop>
+            <stop link="S6_S054_2.pdf" name="Sarbinowo II" is-favourite="0"></stop>
+            <stop link="S6_S053_2.pdf" name="Sarbinowo I" is-favourite="0"></stop>
+            <stop link="S6_S052_2.pdf" name="Sarbinowo" is-favourite="0"></stop>
+            <stop link="S6_S035_2.pdf" name="Łowęcin II n/ż" is-favourite="0"></stop>
+            <stop link="S6_S032_2.pdf" name="Łowęcin" is-favourite="0"></stop>
+            <stop link="S6_S034_2.pdf" name="Łowęcin n/ż" is-favourite="0"></stop>
+            <stop link="S6_S033_2.pdf" name="Łowęcin / Szkolna" is-favourite="0"></stop>
+            <stop link="S6_S025_2.pdf" name="Tulipanowa" is-favourite="0"></stop>
+            <stop link="S6_S024_2.pdf" name="Sołecka" is-favourite="0"></stop>
+            <stop link="S6_S089_2.pdf" name="Wrzesińska sklep" is-favourite="0"></stop>
+            <stop link="S6_S088_2.pdf" name="Wrzesińska" is-favourite="0"></stop>
+            <stop link="S6_S086_1.pdf" name="Swarzędz Rynek" is-favourite="0"></stop>
+        </line>
+    </bus>
+</buses>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swarzędzki Bus</string>
+    <string name="action_settings">O aplikacji</string>
+    <string name="no_files">Brak plików do wyświetlenia</string>
+    <string name="web_resource">http://www.swarzedz.pl/fileadmin/Swarzedz/Informator_miejski/komunikacja/rozklad/przystankowy/</string>
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
